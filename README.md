@@ -2,7 +2,6 @@
 
 👨‍🎓 Graduate student at University of Texas, diving into the world of technology and innovation.<br>
 📚 Studying Business Analytics and Artificial Intelligence. Marketing has taught me the importance of storytelling in my Undergrad, while analytics empowers me with the tools to quantify and optimize these efforts.<br>
-🚶‍♂️ On a personal mission to make 2025 a fitness year!<br>
 🌐 Currently learning and finding my fit in the Data World. <br>
 
 ---
