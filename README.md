@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hi, I'm Preeti! 👋
+### Hi there, I'm Preeti 👋
 
 👨‍🎓 Graduate student at University of Texas, diving into the world of technology and innovation.<br>
 📚 Studying Business Analytics and Artificial Intelligence. Marketing has taught me the importance of storytelling in my Undergrad, while analytics empowers me with the tools to quantify and optimize these efforts.<br>
