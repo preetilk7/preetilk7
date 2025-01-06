@@ -27,14 +27,13 @@
 ---
 
 ### 🌟 Let's Connect!
-- 📫 Email: [plkummera@gmail.com](mailto:plkummera@gmail.com)
+![Static Badge](https://img.shields.io/badge/Gmail-%23d3d3d3?style=for-the-badge&logo=gmail&logoColor=red&labelColor=e6e6e6&color=e6e6e6&link=(mailto:plkummera@gmail.com))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/preeti-lk/)
 
 ---
 
 Happy coding! 😊
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
