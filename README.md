@@ -1,17 +1,15 @@
 
 ### Hi there, I'm Preeti 👋
 
-👨‍🎓 Graduate student at University of Texas, diving into the world of technology and innovation.<br>
-📚 Studying Business Analytics and Artificial Intelligence. Marketing has taught me the importance of storytelling in my Undergrad, while analytics empowers me with the tools to quantify and optimize these efforts.<br>
-🌱 Currently learning and finding my fit in the Data World. <br>
+I am Graduate student at University of Texas, studying Business Analytics and Artificial Intelligence. I'm shaping my journey in the world of technology, exploring the vast potential of data and its transformative power. My Bachelor's in Management Studies, with a focus on Marketing, taught me the art of storytelling, while analytics now equips me with the tools to quantify and enhance these narratives effectively. From designing impactful dashboards to crafting marketing campaigns, I thrive at the intersection of creativity and data. Only way forward is to transforming insights into measurable results. 
 
 ---
 
 ### 🔭 Current Projects
 
 - 🚀 Building my first GitHub repository and documenting my learning journey.
-- 🤖 Exploring machine learning applications and building AI-based tools.
-- 🛠 Growing my skillset in data analytics and visualization.
+- 🤖 Working on Walmart Holiday Sales Data, exploring data analytics techniques to uncover insights.
+- 🌱 There's more to come!
   
 ---
 
